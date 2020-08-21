@@ -1,0 +1,11 @@
+1) 
+	Latitude V Max temp shows a distinct bell curve, as one gets closer to the equaitor the temprature increase. 
+	This makes sense, along the equaitor are the hottest regions of our planet; deserts and jungle etc.
+2) 	
+	Lat V humidity and Lat V Wind Speed are amost inverses of eachother, this stands to reason Places with 
+	high wind speeds would not be humid. Youll notice that many of these places have low wind speeds and thus
+	it follows that many of these places have a high humidity. If one were to run a correlation analysis 
+	it might corroborate this.
+3)
+	The latitudes that tend to be the most humid are clustered generally along the equaitor, though this 
+	isnt always true. This follows the reasoning that the equaitor is generally hotter. 
